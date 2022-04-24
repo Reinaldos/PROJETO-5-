@@ -1,7 +1,6 @@
 # Projeto Final do Módulo 5 
 
-<p align="center"><img src="https://www2.camara.leg.br/a-camara/estruturaadm/procuradoria-parlamentar/imagem/camara_deputados1.jpg/image_view_fullscreen"></p>
-  
+ 
 <h1>Projeto de encerramento de módulo 5: Análise de dados</h1>
 <br>
 <h2>Descrição do Projeto:</h2>
