@@ -68,11 +68,9 @@ Colab
 
 <h2>Equipe de Projeto</h2>
 
-    <tr align="center">
-        <td><p align="center"><b>REINALDO</b></p></td>
-        <td><p align="center"><b>HENRIQUE</b></p></td>
-        <td><p align="center"><b>AMANDA</b></p></td>
-        <td><p align="center"><b>JEAN</b></p></td>        
-</table>
-    
+    REINALDO
+    AMANDA
+    HENRIQUE 
+    JEAN
+
    
