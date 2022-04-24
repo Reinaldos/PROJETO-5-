@@ -57,26 +57,6 @@ do passo a passo da análise em markdown, apresentação dos resultados e
 insights gerados;
 >* Levantar mais duas perguntas e respondê-las com a visualização mais
 adequada.
-
-<h2>Arquivos do Projeto</h2>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/projeto-mod-5-resilia%20versao%2020%20-%20red.ipynb" target="_blank">Notebook do Projeto - formato .ipynb</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/Ano-2019.csv" target="_blank">Dados de 2019 - formato .csv</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/Ano-2020.csv" target="_blank">Dados de 2020 - formato .csv</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/Ano-2021.csv" target="_blank">Dados de 2021 - formato .csv</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/brasil_estados.json" target="_blank">Arquivo Mapa do Brasil - Estados - formato .json</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/dicio_cotaP.csv" target="_blank">Dicionário das Cotas Parlamentares - formato .csv</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/dicio_cotaP.csv" target="_blank">Valores das cotas por Estados - formato .csv</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/Apresenta%C3%A7%C3%A3o%20de%20Projeto%20M5.pptx" target="_blank">Apresentação do Projeto - formato .pptx</a>
-
-><a href="https://github.com/LeGuigs/ProjetoFinal_Modulo5/blob/main/requirements.txt" target="_blank">Arquivo Requirements formato .txt</a>
   
 <h2>Apresentação:</h2>
 
